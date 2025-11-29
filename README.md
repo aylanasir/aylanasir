@@ -1,6 +1,6 @@
-## Hi 👋 I'm Ayla Nasir
+# Hi 👋 I'm Ayla Nasir
 
-# 💫 About Me:
+## 💫 About Me:
 I'm interested in where engineering and business intersect<br><br>I find finance and consulting super interesting, while also enjoying exploring the tech world<br><br>I love learning new skills, meeting people of all walks of life, and seeing how I can leverage my skills and passions to positively contribute to the world around me<br><br>
 
 
