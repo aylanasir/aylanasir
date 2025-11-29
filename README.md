@@ -8,7 +8,7 @@
 
 ## Interests:
 🎨 I love visual arts and graphic design, and I’ve recently been exploring Figma in my spare time<br>
-✈️📷 I enjoy traveling (like most people), but my favorite part is capturing moments through photography <br>
+📸 I enjoy traveling (like most people), but my favorite part is capturing moments through photography <br>
 📖🔭 My love for STEM and reading began with the nonfiction books I read as a child, and it still drives my curiosity today I’m currently reading "Quantum Physics Made Me Do It" by Jeremie Harris<br>
 
 ## Connect with me:
