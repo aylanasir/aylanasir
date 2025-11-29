@@ -1,8 +1,12 @@
 # Hi 👋 I'm Ayla Nasir
 
 ## 💫 About Me:
-I'm interested in where engineering and business intersect<br><br>I find finance and consulting super interesting, while also enjoying exploring the tech world<br><br>I love learning new skills, meeting people of all walks of life, and seeing how I can leverage my skills and passions to positively contribute to the world around me<br><br>
+• I'm interested in where engineering and business intersect<br>• I find finance and consulting super interesting, while also enjoying exploring the tech world<br>• I love learning new skills, meeting people of all walks of life, and seeing how I can leverage my skills and passions to positively contribute to the world around me<br>
 
+## 🎨 Interests:
+• I love visual arts and graphic design, and I’ve recently been exploring Figma in my spare time.<br>
+• I enjoy traveling (like most people), but my favorite part is capturing moments through photography. ✈️📷<br>
+• My love for STEM and reading began with the nonfiction books I read as a child, and it still drives my curiosity today. I’m currently reading Quantum Physics Made Me Do It by Jeremie Harris.<br>
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayla-nasir)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nasira20@mcmaster.ca) 
