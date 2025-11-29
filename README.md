@@ -1,4 +1,4 @@
-# Hi 👋 I'm Ayla Nasir
+# Hey 👋 I'm Ayla Nasir
 
 ## About Me:
 💼 I'm passionate about the intersection of engineering and business<br>
