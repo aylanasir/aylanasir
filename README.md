@@ -4,7 +4,7 @@
 💼 I'm passionate about the intersection of engineering and business<br>
 📈 Within buisness, I find finance and consulting very interesting<br>
 💻 I also enjoy exploring the tech world!<br>
-🤝 I love learning new skills, meeting people from all walks of life, and finding ways to leverage my strengths and passions to make a positive impact<br>
+🤝 I love learning new skills, meeting people from all walks of life, and finding ways to leverage my strengths and passions to make a positive impact <br>
 
 ## Interests:
 🎨 I love visual arts and graphic design, and I’ve recently been exploring Figma in my spare time.<br>
