@@ -3,7 +3,7 @@
 ## About Me:
 💼 I'm passionate about the intersection of engineering and business<br>
 📈 Within buisness, I find finance and consulting very interesting<br>
-💻 I also enjoy exploring the tech world!<br>
+💻 I'm currently exploring tech— you can follow my journey as I experiment here!<br>
 🤝 I love learning new skills, meeting people from all walks of life, and finding ways to leverage my strengths and passions to make a positive impact <br>
 
 ## Interests:
