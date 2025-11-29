@@ -17,8 +17,6 @@ I'm interested in where engineering and business intersect<br><br>I find finance
 ---
 [![](https://visitcount.itsvg.in/api?id=aylanasir&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->username=aylanasir&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=aylanasir&icon=0&color=6)](https://visitcount.itsvg.in)
 
